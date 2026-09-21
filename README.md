@@ -6,6 +6,8 @@ Paper: https://arxiv.org/abs/2609.16247
 
 Fine-tuned adapters for Section 4.3: https://huggingface.co/Valen92/pain-adapters
 
+This fork adds a [Japanese MLX replication note comparing two Qwen3-14B abliterated checkpoints](replications/qwen3-14b-abliterated-mlx/README.ja.md).
+
 ## Structure
 
 ```
