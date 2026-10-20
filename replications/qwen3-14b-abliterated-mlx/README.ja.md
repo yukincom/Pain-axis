@@ -49,3 +49,7 @@ abliteratedモデル間でも、同じ手順によるステアリング後の生
 
 - 論文: [The Pain Axis](https://arxiv.org/abs/2609.16247)
 - 公開コード・データ: [valen-research/Pain-axis](https://github.com/valen-research/Pain-axis)
+
+## 補足分析
+
+- [著者公開420シナリオでの自己・他者スクリーニング](supplement-420-screening.ja.md) — 2026-09-21のJosiefied実測。会話本文を除いた数値CSVと再集計コードを公開。上記の5-fold held-out AUCとは別の、420件全体の記述的分析です。
